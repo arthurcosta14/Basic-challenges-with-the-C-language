@@ -12,7 +12,7 @@ int main (void){
    
     soma = num1/num2;
 
-    printf ("Resultado da soma é: %.2f\n", soma);
+    printf ("Resultado da divisão é: %.2f\n", soma);
 
     return 0;
 }
