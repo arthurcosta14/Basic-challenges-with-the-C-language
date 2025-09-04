@@ -12,7 +12,7 @@ int main (void){
    
     soma = num1-num2;
 
-    printf ("Resultado da soma é: %d\n", soma);
+    printf ("Resultado da subtração é: %d\n", soma);
 
     return 0;
 }
