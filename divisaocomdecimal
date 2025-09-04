@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main (void){
+    
+    float num1, num2,soma;
+
+    printf ("Insira o valor do primeiro número: ");
+    scanf ("%f" , &num1);
+
+    printf ("Insira o valor do segundo número: ");
+    scanf ("%f" , &num2);
+   
+    soma = num1/num2;
+
+    printf ("Resultado da soma é: %.2f\n", soma);
+
+    return 0;
+}
